@@ -9,6 +9,8 @@
   </a>
 </p>
 
+<a href="https://palmardev.com/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=28FFBC&width=435&lines=I+am+web+development+fullstack;Backend+specialty;React%2C+Next+js%2C+Node+js%2C+Express+and+Mongodb" alt="Typing SVG" /></a>
+
 ## <img width=10% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60f2b66e-1733-440a-ad24-25064eb5820d/d1lomba-35e7f3af-48eb-4d3c-8e3b-6388d70f4cd0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwZjJiNjZlLTE3MzMtNDQwYS1hZDI0LTI1MDY0ZWI1ODIwZFwvZDFsb21iYS0zNWU3ZjNhZi00OGViLTRkM2MtOGUzYi02Mzg4ZDcwZjRjZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uXM6opbNLzxXFVysR5i6R4eG7Q4yNiO-Nwygqtgqsbw"/> Technologies and Tools I use
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -22,8 +24,6 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/ " target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170 " target="_blank"> <img src="https://i.pinimg.com/originals/13/a8/94/13a89487b6a28c9fd6fee57cf6bc5e2c.png" alt="Lenguaje C" width="40"/> </a>
 <a href="https://wordpress.com/es/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WordPress.svg/1200px-WordPress.svg.png" alt="WordPress" width="60"/> </a>
 </p>
 
