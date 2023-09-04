@@ -1,4 +1,8 @@
-### Hi there 👋, I am Gabriel Palmar
+<p align="center">
+  <a href="https://github.com/Haonter">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🙋🏻‍♂️%20Hi!,%20i%20am%20Gabriel%20Palmar;&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=15000&size=30" /></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Haonter">
     <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650px" alt="Diego Rodriguez" />
