@@ -1,15 +1,17 @@
 <p align="center">
-  <a href="https://github.com/Haonter">
+  <a href="https://github.com/PalmarDev">
     <img src="https://readme-typing-svg.demolab.com/?lines=🙋🏻‍♂️%20Hi!,%20i%20am%20Gabriel%20Palmar;&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=15000&size=30" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Haonter">
-    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650px" alt="Diego Rodriguez" />
+  <a href="https://github.com/PalmarDev">
+    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650px" alt="Gabriel Palmar" />
   </a>
 </p>
 
-<a href="https://palmardev.com/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=28FFBC&width=435&lines=I+am+web+development+fullstack;Backend+specialty;React%2C+Next+js%2C+Node+js%2C+Express+and+Mongodb" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://palmardev.com/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=28FFBC&width=435&lines=I+am+web+development+fullstack;Frontend+specialty;Html+Tailwind%2C+React+%26+Next+Js;Backend+specialty;NodeJs%2C+Express%2C+MongoDB%2C+PHP+%26+MySql;Other+language;C%2B%2B%2C+Java+%26+Python" alt="Typing SVG" /></a>
+</p>
 
 ## <img width=10% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60f2b66e-1733-440a-ad24-25064eb5820d/d1lomba-35e7f3af-48eb-4d3c-8e3b-6388d70f4cd0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwZjJiNjZlLTE3MzMtNDQwYS1hZDI0LTI1MDY0ZWI1ODIwZFwvZDFsb21iYS0zNWU3ZjNhZi00OGViLTRkM2MtOGUzYi02Mzg4ZDcwZjRjZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uXM6opbNLzxXFVysR5i6R4eG7Q4yNiO-Nwygqtgqsbw"/> Technologies and Tools I use
 <p align="left">
