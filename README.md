@@ -36,7 +36,7 @@
   <a href="https://github.com/PalmarDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Proyectos+realizados+por+mi" alt="Typing SVG" /></a>
   <p align="left" >  
     <a href="https://palmardev.github.io/html-css/youtube-fake/src/" target="_blank" rel="noopener noreferrer">
-    <img src="https://logowik.com/content/uploads/images/youtube-black6725.jpg" alt="YouTube" width="60px" height="40px"/>
+    <img src="https://logowik.com/content/uploads/images/youtube-black6725.jpg" alt="YouTube" width="100px" height="80px"/>
   </a>
     </p>
 </p>
