@@ -47,6 +47,9 @@
 <a href="https://palmardev.github.io/Javascript/piedra-papel-tijera/" target="_blank" rel="noopener noreferrer">
   <img src="https://hips.hearstapps.com/hmg-prod/images/people-playing-paper-rock-scissors-royalty-free-illustration-1583269312.jpg" alt="Calc" width="100px" height="80px"/>
 </a>
+<a href="https://palmardev.github.io/Javascript/api-digimon/" target="_blank" rel="noopener noreferrer">
+  <img src="https://w7.pngwing.com/pngs/834/715/png-transparent-computer-icons-api-text-logo-desktop-wallpaper-thumbnail.png" alt="API" width="100px" height="80px"/>
+</a>
 </p>
     
 
