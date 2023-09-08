@@ -32,7 +32,8 @@
       <a href="https://www.java.com/es/" target="_blank" rel="noopener noreferrer" > <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1" alt="Java" width="40" height="40"/> </a>
 </p>
 
-## <img src=""https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="240" height="135"/> Projects
+##Projects 
+<img src=""https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="240" height="135"/>
 <p align="center">
   <a href="https://github.com/PalmarDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Projects+done+by+me" alt="Typing SVG" /></a>
   </p>
