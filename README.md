@@ -44,6 +44,9 @@
 <a href="https://palmardev.github.io/Javascript/Calculadora/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/6508/6508064.png" alt="Calc" width="100px" height="80px"/>
 </a>
+<a href="https://palmardev.github.io/Javascript/piedra-papel-tijera/" target="_blank" rel="noopener noreferrer">
+  <img src="https://hips.hearstapps.com/hmg-prod/images/people-playing-paper-rock-scissors-royalty-free-illustration-1583269312.jpg" alt="Calc" width="100px" height="80px"/>
+</a>
 </p>
     
 
