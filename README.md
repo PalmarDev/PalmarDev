@@ -35,8 +35,6 @@
 ## <img width=10% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60f2b66e-1733-440a-ad24-25064eb5820d/d1lomba-35e7f3af-48eb-4d3c-8e3b-6388d70f4cd0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwZjJiNjZlLTE3MzMtNDQwYS1hZDI0LTI1MDY0ZWI1ODIwZFwvZDFsb21iYS0zNWU3ZjNhZi00OGViLTRkM2MtOGUzYi02Mzg4ZDcwZjRjZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uXM6opbNLzxXFVysR5i6R4eG7Q4yNiO-Nwygqtgqsbw"/> Projects 
 
 <p align="center">
-  <a href="https://github.com/PalmarDev>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="giphy" width="480" height="270" /></a>
   <a href="https://github.com/PalmarDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Projects+done+by+me" alt="Typing SVG" /></a>
   </p>
   <p align="left" >  
