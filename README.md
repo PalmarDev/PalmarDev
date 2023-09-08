@@ -34,9 +34,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Proyectos+realizados+por+mi" alt="Typing SVG" /></a>
-  <a href="https://palmardev.github.io/html-css/youtube-fake/src/" target="_blank" rel="noopener noreferrer"  >
-    YouTube
+  <p align="left" >  <a href="https://palmardev.github.io/html-css/youtube-fake/src/" target="_blank" rel="noopener noreferrer"  >
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AYoutube_logo.png&psig=AOvVaw16P2a1_AC5Z6h8JqGq0n4E&ust=1694221555181000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjzjoGh6ZmBAxXPfDABHZqUB90QjRx6BAgAEAw" width="60px"  height="60px" />
   </a>
+    </p>
 </p>
 
 ## Most Used Languages <img width=7% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bde86535-8203-40c4-8a0c-f40d10a18e8e/d11gwgl-1102df2b-8c9e-4d92-97d4-4d6cb454a274.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkZTg2NTM1LTgyMDMtNDBjNC04YTBjLWY0MGQxMGExOGU4ZVwvZDExZ3dnbC0xMTAyZGYyYi04YzllLTRkOTItOTdkNC00ZDZjYjQ1NGEyNzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DAoQWljBbvsU3NWrtOWJHgMTjUCtsm7Q8xBuWCjll9Y"/>
