@@ -33,8 +33,8 @@
 </p>
 
 ##Projects 
-<img src=""https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="240" height="135"/>
 <p align="center">
+<img src=""https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270"/>
   <a href="https://github.com/PalmarDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Projects+done+by+me" alt="Typing SVG" /></a>
   </p>
   <p align="left" >  
