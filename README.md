@@ -33,13 +33,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PalmarDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Proyectos+realizados+por+mi" alt="Typing SVG" /></a>
+  <a href="https://github.com/PalmarDev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Projects+done+by+me" alt="Typing SVG" /></a>
+  </p>
+## <img width=10% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60f2b66e-1733-440a-ad24-25064eb5820d/d1lomba-35e7f3af-48eb-4d3c-8e3b-6388d70f4cd0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwZjJiNjZlLTE3MzMtNDQwYS1hZDI0LTI1MDY0ZWI1ODIwZFwvZDFsb21iYS0zNWU3ZjNhZi00OGViLTRkM2MtOGUzYi02Mzg4ZDcwZjRjZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uXM6opbNLzxXFVysR5i6R4eG7Q4yNiO-Nwygqtgqsbw"/> Projects
+  
   <p align="left" >  
     <a href="https://palmardev.github.io/html-css/youtube-fake/src/" target="_blank" rel="noopener noreferrer">
     <img src="https://logowik.com/content/uploads/images/youtube-black6725.jpg" alt="YouTube" width="100px" height="80px"/>
   </a>
     </p>
-</p>
+
 
 ## Most Used Languages <img width=7% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bde86535-8203-40c4-8a0c-f40d10a18e8e/d11gwgl-1102df2b-8c9e-4d92-97d4-4d6cb454a274.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkZTg2NTM1LTgyMDMtNDBjNC04YTBjLWY0MGQxMGExOGU4ZVwvZDExZ3dnbC0xMTAyZGYyYi04YzllLTRkOTItOTdkNC00ZDZjYjQ1NGEyNzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DAoQWljBbvsU3NWrtOWJHgMTjUCtsm7Q8xBuWCjll9Y"/>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PalmarDev&layout=compact&hide_border=true&border_radius=20&title_color=ffffff&text_color=ffffff&bg_color=DEG,001f34,00709a,001f34&&card_width=600px)
