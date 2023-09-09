@@ -32,8 +32,6 @@
 <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" > <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="WordPress" width="60"/> </a>
 <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a>
 <a href="https://www.java.com/es/" target="_blank" rel="noopener noreferrer" > <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1" alt="Java" width="40" height="40"/> </a>
-  
-
 </p>
 
 ## <img width=7% src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bde86535-8203-40c4-8a0c-f40d10a18e8e/d11gwgl-1102df2b-8c9e-4d92-97d4-4d6cb454a274.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkZTg2NTM1LTgyMDMtNDBjNC04YTBjLWY0MGQxMGExOGU4ZVwvZDExZ3dnbC0xMTAyZGYyYi04YzllLTRkOTItOTdkNC00ZDZjYjQ1NGEyNzQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DAoQWljBbvsU3NWrtOWJHgMTjUCtsm7Q8xBuWCjll9Y"/> Projects 
