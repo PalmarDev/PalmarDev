@@ -26,7 +26,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="60"/> </a>
     <a href="https://expressjs.com" target="_blank" rel="noopener noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="50"/> </a>
+<a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/ " target="_blank" rel="noopener noreferrer" > <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/> </a>
 <a href="https://wordpress.com/es/" target="_blank" rel="noopener noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WordPress.svg/1200px-WordPress.svg.png" alt="WordPress" width="60"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer" > <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="Laravel" width="40" height="40"/> </a>
