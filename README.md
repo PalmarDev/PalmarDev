@@ -58,7 +58,9 @@
 <a href="https://palmardev.github.io/Javascript/to-do/" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/4697/4697260.png" alt="to-do" width="100px" height="80px"/>
 </a>
-  
+<a href="https://cocos-producciones.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cocos-producciones.com/static/media/compu.3c24f4e51f5bd9a844a6.png" alt="to-do" width="100px" height="80px"/>
+</a>  
 </p>
     
 
