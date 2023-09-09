@@ -50,6 +50,9 @@
 <a href="https://palmardev.github.io/Javascript/api-digimon/" target="_blank" rel="noopener noreferrer">
   <img src="https://w7.pngwing.com/pngs/834/715/png-transparent-computer-icons-api-text-logo-desktop-wallpaper-thumbnail.png" alt="API" width="100px" height="80px"/>
 </a>
+  <a href="https://palmardev.github.io/Javascript/tres-en-raya/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.freepik.com/vector-premium/juego-tres-raya-icono-contorno-lineal-neon_7280-2422.jpg" alt="3enraya" width="100px" height="80px"/>
+</a>
 </p>
     
 
