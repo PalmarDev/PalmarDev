@@ -32,7 +32,7 @@
 <a href="https://pypi.org/" target="_blank" rel="noopener noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
 <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a>
 <a href="https://www.java.com/es/" target="_blank" rel="noopener noreferrer" > <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1" alt="Java" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer" > <img src=" https://img.icons8.com/color/480w/spring-logo.png" alt="Spring" width="40" height="40"/> </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer" > <img src="https://img.icons8.com/color/480w/spring-logo.png" alt="Spring" width="40" height="40"/> </a>
  
 </p>
 
