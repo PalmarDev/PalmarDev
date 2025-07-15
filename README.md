@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://palmardev.com">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🙋🏻‍♂️%20Hi!,%20i%20am%20Gabriel%20Palmar;&font=Fira%20Code&center=true&width=650&color=0a94b2&vCenter=true&pause=15000&size=30" /></a>
 </p>
 
 <p align="center">
