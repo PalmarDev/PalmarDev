@@ -84,7 +84,7 @@ I am a **Senior Backend Engineer at Crimsontide**, specialized in building scala
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalmarDev&layout=compact&hide_border=true&border_radius=20&title_color=ffffff&text_color=ffffff&bg_color=DEG,0f0f0f,1f1f1f,0f0f0f&card_width=600px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PalmarDev&theme=dark&show_icons=true"/>
 </p>
 
 ---
