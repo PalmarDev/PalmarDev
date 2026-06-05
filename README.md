@@ -84,10 +84,3 @@ I am a **Senior Backend Engineer at Crimsontide**, specialized in building scala
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://palmardev.com">🌐 Website</a> •
-  <a href="https://github.com/PalmarDev">💻 GitHub</a>
-</p>
