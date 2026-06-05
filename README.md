@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="./crimson_white.png" width="600px" alt="Crimsontide Logo" />
-</p>
-
 <h1 align="center">Gabriel Palmar</h1>
-<h3 align="center">Senior Backend Engineer @ Crimsontide</h3>
+<h3 align="center">Senior Backend Engineer</h3>
 
 <p align="center">
   <a href="https://palmardev.com" target="_blank">
